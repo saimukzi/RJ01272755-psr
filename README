@@ -1,0 +1,42 @@
+The rock paper scissors game of DLsite RJ01272755 is difficult.
+I make a code to solve that.
+
+Solution:
+
+Turn 1
+Player deal paper, PC deal scissors
+
+Turn 2
+Player deal scissors, PC deal rock
+
+Turn 3
+Use demolition magic to remove one scissors from PC
+Player deal paper, PC deal scissors
+
+Turn 4
+Use hunai-san magic (船井)
+Player deal scissors, PC deal paper
+1 win
+
+Turn 5
+Use exchange magic, give away 2 rock, take in 2 paper
+Player deal paper, PC deal rock
+2 win
+
+Turn 6
+Player deal paper, PC deal rock
+3 win
+
+Turn 7
+Player deal paper, PC deal rock
+4 win
+
+Turn 8
+Use hypnosis magic
+Player deal scissors, PC deal rock
+5 win
+
+Turn 9
+Use truce magic, add scissors
+Player deal rock, PC deal scissors
+6 win
